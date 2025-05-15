@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:User;Example;;;
+FN:Example User
+ORG:Proxurve Solutions Inc.
+ADR;TYPE=WORK:4181 E. 96th St
+Indianapolis, IN 46240
+TITLE:Managed Service Provider
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:317-644-7769
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:help@proxurve.com 
+URL;TYPE=Digital Business Card:
+URL:www.proxurve.com
+URL;TYPE=Website:www.proxurve.com
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/company/proxurve-solutions-inc./
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Business Hours: 7am-6pm EST
+UID:EnBizCard-100075873
+END:VCARD
